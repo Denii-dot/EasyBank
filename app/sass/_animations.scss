@@ -1,5 +1,6 @@
 .has-fade {
   visibility: hidden;
+  z-index: 1;
 }
 
 @keyframes fade-in {
